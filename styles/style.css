@@ -108,6 +108,7 @@
     display: block;
     position: relative;
     width: 100%;
+    margin-top: 25px;
 
     border: 1px solid red;
 }
@@ -116,3 +117,12 @@
     background-color: yellow;
 }
 
+.list-size{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 25px;
+    margin-left: 20px;
+
+    border: 1px solid red;
+}
