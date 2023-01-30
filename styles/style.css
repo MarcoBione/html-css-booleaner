@@ -210,8 +210,38 @@ main, footer{
 }
 
 .footer-main-title{
+    margin-top: 20px;
     color: grey;
+
+    border: 1px solid red;
 }
+
+.footer-images-container{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+
+    border: 1px solid red;
+}
+
+.img1, .img2{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    border: 1px solid red;
+}
+
+.name-img{
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 30px;
+}
+
 
 
 
