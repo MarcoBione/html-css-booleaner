@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main, footer{
+    margin-left: 5px;
+}
+
+.head-container{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    background-color: rgb(2, 154, 255);
+
+    /* border: 1px solid red; */
+}
+
+.image{
+    display: block;
+    position: absolute;
+    width: 200px;
+    bottom: 10px;
+    left: 10px;
+
+    /* border: 1px solid red; */
+}
+
+.main-container{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+
+    /* border: 1px solid red; */
+}
+
+.main-titles-container1{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+
+    /* border: 1px solid red; */
+}
+
+.title-container{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.main-title{
+    font-size: 48px;
+}
+
+.sub-title1{
+    font-size: 18px;
+}
+
+.sub-title1-name{
+    color: rgb(2, 154, 255);
+}
+
+.sub-title-container{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.date{
+    font-size: 18px;
+    font-size: 15px;
+    margin-bottom: 20px;
+
+}
+
+.date-container{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+
+.main-images{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+
+    /* border: 1px solid red; */
+}
+
+.paragraph{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 25px;
+
+    /* border: 1px solid red; */
+}
+
+.evidence{
+    background-color: yellow;
+}
+
+.list-size{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 25px;
+    margin-left: 20px;
+
+    /* border: 1px solid red; */
+}
+
+.table-title{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 25px;
+
+    /* border: 1px solid red; */
+}
+
+.targhet{
+    background-color: rgb(2, 154, 255);
+    color: white;
+}
+.column1{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+
+    /* border: 1px solid red; */
+}
+
+.column2{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin-left: -4px;
+
+    /* border: 1px solid red; */
+}
+
+.column3{
+    display: inline-block;
+    position: relative;
+    width: 500px;
+    margin-left: -4px;
+
+    /* border: 1px solid red; */
+}
+
+.table-body{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.line1, .line2, .line3, .line4{
+    display: inline-block;
+    position: relative;
+
+    /* border: 1px solid red; */
+}
+
+.color{
+    background-color: rgb(153, 214, 255);
+}
+
+.tab{
+    display: absolute;
+    bottom: 18px;
+}
+
+.footer-container{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.footer-title{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.footer-main-title{
+    margin-top: 20px;
+    color: grey;
+
+    /* border: 1px solid red; */
+}
+
+.footer-images-container{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+
+    /* border: 1px solid red; */
+}
+
+.img1, .img2{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    /* border: 1px solid red; */
+}
+
+.name-img{
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 30px;
+}
+
+
+
+
