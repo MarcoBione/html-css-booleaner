@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+main, footer{
+    margin-left: 5px;
+}
 
 .head-container{
     display: block;
@@ -162,7 +165,7 @@
     position: relative;
     width: 500px;
     margin-left: -4px;
-    
+
     border: 1px solid red;
 }
 
@@ -189,3 +192,26 @@
     display: absolute;
     bottom: 18px;
 }
+
+.footer-container{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    border: 1px solid red;
+}
+
+.footer-title{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    border: 1px solid red;
+}
+
+.footer-main-title{
+    color: grey;
+}
+
+
+
