@@ -33,8 +33,9 @@ main, footer{
 .main-container{
     display: block;
     position: relative;
-    width: 100%;
+    width: 60%;
     height: auto;
+    margin: 0 auto;
 
     /* border: 1px solid red; */
 }
@@ -190,7 +191,8 @@ main, footer{
 .footer-container{
     display: block;
     position: relative;
-    width: 100%;
+    width: 60%;
+    margin: 0 auto;
 
     /* border: 1px solid red; */
 }
@@ -233,7 +235,7 @@ main, footer{
     top: 10px;
     left: 10px;
     color: white;
-    font-size: 30px;
+    font-size: 22px;
 }
 
 
