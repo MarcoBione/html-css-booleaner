@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color: black;
-}
 
 .head-container{
     display: block;
@@ -63,14 +60,10 @@ body{
 
 .main-title{
     font-size: 48px;
-
-    color: aliceblue;
 }
 
 .sub-title1{
     font-size: 18px;
-
-    color: lightgray;
 }
 
 .sub-title1-name{
@@ -97,7 +90,6 @@ body{
     position: relative;
     width: 100%;
 
-    color: lightgray;
     border: 1px solid red;
 
 }
@@ -112,4 +104,15 @@ body{
     border: 1px solid red;
 }
 
+.paragraph{
+    display: block;
+    position: relative;
+    width: 100%;
+
+    border: 1px solid red;
+}
+
+.evidence{
+    background-color: yellow;
+}
 
