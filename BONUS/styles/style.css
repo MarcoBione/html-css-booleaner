@@ -240,4 +240,31 @@ main, footer{
 
 
 
+/*CORREZIONE CON CLELIA*/
 
+/*table*/
+.bg-blue{
+    background-color: #20a9a5;
+}
+
+.text-white{
+    color: #ffffff;
+}
+
+.bg-lightblue{
+    background-color: #b1e5f2;
+}
+
+table{
+    text-align: left;
+    border-spacing: 0;
+    width: 100%;
+    /* table-layout: fixed; */
+}
+
+.half{
+    min-width: 50%;
+}
+
+
+/*CORREZIONE CON CLELIA*/
